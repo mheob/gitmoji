@@ -23,7 +23,7 @@
     "@babel/preset-flow": "^7.0.0",
     "clipboard": "^2.0.4",
     "flow-bin": "^0.159.0",
-    "husky": "^7.0.0",
+    "husky": "^8.0.2",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^27.0.1",
     "jest-fetch-mock": "^3.0.3",
